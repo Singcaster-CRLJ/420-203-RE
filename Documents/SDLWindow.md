@@ -4,33 +4,25 @@ Gérée par le système d'exploitation, il s'agit que du cadrage d'une fenêtre:
 
 # Instanciation
 
-Pour créer une instance de fenêtre en mémoire:
+Pour instancier une fenêtre:
 
 ![Création de fenêtre](Images/SDLCreateWindow.png)
 
 ## Indicateurs
 
-Plusieurs options (flags) sont disponibles pour une fenêtre:
+Plusieurs options (flags) sont disponibles:
 
-|Flag                 |Description                              |
+|Options              |Description                              |
 |---------------------|-----------------------------------------|
-|SDL_WINDOW_RESIZABLE |Redimensionnement de la fenêtre possible.|
+|SDL_WINDOW_BORDERLESS|Fenêtre sans bordures.                   |
 |SDL_WINDOW_FULLSCREEN|Fenêtre plein-écran.                     |
+|SDL_WINDOW_MAXIMIZED |Fenêtre maximisée.                       |
 |SDL_WINDOW_OPENGL    |OpenGL comme moteur de rendu.            |
+|SDL_WINDOW_RESIZABLE |Redimensionnement de la fenêtre possible.|
 |...                  |...                                      |
 
 # Libération
 
-Pour libérer une instance de fenêtre:
+Pour libérer une instance:
 
 ![SDL destroy window](Images/SDLDestroyWindow.png)
-
-# Informations
-
-Plusieurs propriétés d'une fenêtre peuvent être manipulées.
-
-## Taille
-
-Afin d'obtenir la taille d'une fenêtre:
-
-![SDL window size](Images/SDLWindowSize.png)

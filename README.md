@@ -8,8 +8,10 @@ Références relatives au cours:
 
 ### Simple Direct Layer
 
-- [Librairie](Documents/SDL2.md)
 - [Fenêtre](Documents/SDLWindow.md)
-- [Moteur de rendu](Documents/SDLRenderer.md)
-- [Événement](Documents/SDLEvent.md)
-- [Police de caractères](Documents/TTFFont.md)
+
+## Fichiers
+
+Fichier relatif au cours:
+
+- [Projet Visual Studio Code en Langage C++ avec librairies SDL2](Fichiers/VSCodeSDL2Project.zip)
