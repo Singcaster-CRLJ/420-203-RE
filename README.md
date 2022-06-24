@@ -14,4 +14,4 @@ Références relatives au cours:
 
 Fichier relatif au cours:
 
-- [Projet Visual Studio Code en Langage C++ avec librairies SDL2](Fichiers/VSCodeSDL2Project.zip)
+- [Projet Visual Studio Code en Langage C++ avec librairies SDL2](Documents/Files/VSCodeSDL2Project.zip)
