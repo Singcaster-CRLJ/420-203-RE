@@ -19,7 +19,9 @@ Plusieurs indicateurs (flags) sont disponibles pour une fenêtre:
 |SDL_WINDOW_RESIZABLE |Redimensionnement de la fenêtre possible.|
 |...                  |...                                      |
 
+Ces indicateurs se manipulent « bit à bit », ils peuvent donc être combinés à l'aide d'opérateurs booléens:
 
+![Indicateurs](Images/SDLWindowFlags.png)
 
 # Libération
 
@@ -29,8 +31,10 @@ Pour libérer une instance:
 
 # Propriétés
 
-...
+Une fenêtre comporte plusieurs propriétés.
 
 ## Identificateur
 
-...
+Toutes les fenêtres possèdent un identificateur, entier non signé, unique:
+
+![Identificateur](Images/SDLGetWindowID.png)
