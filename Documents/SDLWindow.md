@@ -25,7 +25,7 @@ Ces indicateurs se manipulent « bit à bit », ils peuvent donc être combinés
 
 # Libération
 
-Pour libérer une instance:
+Pour libérer une instance de fenêtre:
 
 ![SDL destroy window](Images/SDLDestroyWindow.png)
 

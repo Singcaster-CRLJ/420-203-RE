@@ -9,6 +9,7 @@ Références relatives au cours:
 ### Simple Direct Layer
 
 - [Fenêtre](Documents/SDLWindow.md)
+- [Moteur de rendu](Documents/SDLRenderer.md)
 
 ## Fichiers
 
