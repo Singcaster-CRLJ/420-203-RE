@@ -10,6 +10,7 @@ Références relatives au cours:
 
 - [Fenêtre](Documents/SDLWindow.md)
 - [Moteur de rendu](Documents/SDLRenderer.md)
+- [Application](Documents/SDLApplication.md)
 
 ## Fichiers
 
