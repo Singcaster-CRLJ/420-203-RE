@@ -4,7 +4,7 @@ Moteur de rendu contenu par une fenêtre.
 
 Pour déclarer et instancier un moteur de rendu:
 
-*[Image]*
+![Moteur de rendu](Images/SDLCreateRenderer.png)
 
 ## Indicateurs
 
@@ -18,10 +18,4 @@ Plusieurs indicateurs (flags) sont disponibles pour un moteur de rendu:
 
 Pour libérer une instance de moteur de rendu:
 
-*[Image]*
-
-# Propriétés
-
-Un moteur de rendu comporte plusieurs propriétés.
-
-...
+![Libération](Images/SDLDestroyRenderer.png)
