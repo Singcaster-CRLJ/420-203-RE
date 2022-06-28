@@ -10,9 +10,11 @@ Pour déclarer et instancier un moteur de rendu:
 
 Plusieurs indicateurs (flags) sont disponibles pour un moteur de rendu:
 
-|Indicateur           |Description                              |
-|---------------------|-----------------------------------------|
-|...                  |...                                      |
+|Indicateur               |Description                              |
+|-------------------------|-----------------------------------------|
+|SDL_RENDERER_ACCELERATED |Accélération matérielle                  |
+|SDL_RENDERER_PRESENTVSYNC|Synchronisation verticale                |
+|...                      |...                                      |
 
 # Libération
 
